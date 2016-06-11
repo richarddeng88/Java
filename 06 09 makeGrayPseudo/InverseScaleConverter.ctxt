@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=inimage
+comment0.target=edu.duke.ImageResource\ makeInverse(edu.duke.ImageResource)
+comment1.params=
+comment1.target=void\ select_and_convert()
+comment1.text=\r\n\ \ \ \ public\ void\ testInverse()\ {\r\n\ \ \ \ \ \ \ \ ImageResource\ ir\ \=\ new\ ImageResource();\r\n\ \ \ \ \ \ \ \ ImageResource\ gray\ \=\ makeInverse(ir);\r\n\ \ \ \ \ \ \ \ gray.draw();\r\n}
+numComments=2
