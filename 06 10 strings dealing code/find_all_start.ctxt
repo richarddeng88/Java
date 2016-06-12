@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=df
+comment0.target=void\ print_all_start(java.lang.String)
+comment1.params=df\ index
+comment1.target=int\ find_stop_index(java.lang.String,\ int)
+numComments=2

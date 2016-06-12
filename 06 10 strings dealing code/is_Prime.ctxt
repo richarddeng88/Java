@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=boolean\ isPrime(int)
+comment1.params=
+comment1.target=void\ testPrimes()
+comment2.params=num
+comment2.target=void\ test_a_int(int)
+numComments=3
