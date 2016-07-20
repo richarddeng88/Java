@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=dna
+comment0.target=java.lang.String\ find_gene(java.lang.String)
+comment1.params=
+comment1.target=void\ find_gene()
+comment2.params=df\ start
+comment2.target=int\ find_stop_index(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ find_all_genes()
+numComments=4
